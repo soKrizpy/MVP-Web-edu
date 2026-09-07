@@ -1,0 +1,6 @@
+{
+  "name": "Gamified LMS & Pet Companion",
+  "description": "Educational 1-on-1 LMS with gamified lessons, interactive quizzes, video tutoring, tutor dashboard, tamagotchi digital pet evolution, duels, and certification.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
